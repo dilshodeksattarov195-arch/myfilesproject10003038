@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvonnect",
+        "uuid": 10988446,
+        "checksum": "bwb4y"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
